@@ -7,9 +7,9 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 
-@Configuration
+//@Configuration
 @Component
-@ConfigurationProperties(prefix = "spring.datasource.grdm")
+//@ConfigurationProperties(prefix = "spring.datasource.grdm")
 public class BeiDB extends BaseDB{
 
 }

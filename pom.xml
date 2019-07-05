@@ -31,11 +31,11 @@
         </dependency>
 
         <!-- 添加oracle jdbc driver -->
-        <dependency>
-            <groupId>com.oracle.jdbc</groupId>
-            <artifactId>com.springsource.oracle.jdbc</artifactId>
-            <version>10.2.0.2</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.oracle.jdbc</groupId>-->
+            <!--<artifactId>com.springsource.oracle.jdbc</artifactId>-->
+            <!--<version>10.2.0.2</version>-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
